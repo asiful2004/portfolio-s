@@ -76,7 +76,7 @@ sr.reveal('.contact__input',{interval: 200});
 
 
 // TEXT TYPING ANIMATION 
-var string = "i'm Web Designer"
+var string = "i'm Minecraft Server Developer"
 var array = string.split("");
 var timer;
 
